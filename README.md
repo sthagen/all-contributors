@@ -19,7 +19,7 @@
         </tr>
         <tr>
             <td><a href="https://allcontributors.org/docs/en/overview">English</a></td>
-            <td><a href="https://allcontributors.org/docs/pt-BR/overview">Português</a></td>
+            <td><a href="https://allcontributors.org/docs/pt-BR/overview">Português do Brasil</a></td>
             <td><a href="https://allcontributors.org/docs/es-ES/overview">Español</a></td>
             <td><a href="https://allcontributors.org/docs/fr/overview">Français</a></td>
             <td><a href="https://allcontributors.org/docs/ru/overview">Русский</a></td>
@@ -169,6 +169,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.jakewiesler.com"><img src="https://avatars1.githubusercontent.com/u/12075916?v=4" width="100px;" alt=""/><br /><sub><b>Jake Wiesler</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jakewies" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/MicaelJarniac"><img src="https://avatars0.githubusercontent.com/u/19514231?v=4" width="100px;" alt=""/><br /><sub><b>Micael Jarniac</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/issues?q=author%3AMicaelJarniac" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/mloning/"><img src="https://avatars3.githubusercontent.com/u/21020482?v=4" width="100px;" alt=""/><br /><sub><b>Markus Löning</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mloning" title="Documentation">📖</a></td>
   </tr>
 </table>
 
